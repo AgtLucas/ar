@@ -28,3 +28,11 @@ node_modules
 .lock-wscript
 
 *.DS_Store
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
